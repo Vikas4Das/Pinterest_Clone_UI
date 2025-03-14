@@ -1,5 +1,11 @@
 # Pinterest Clone Website  
 
+
+## How to View the Project  
+
+<h2>Link: https://vikas4das.github.io/Pinterest_Clone/ </h2>
+
+
 This is a **Pinterest clone website** that I created to showcase my frontend development skills. The project replicates the user interface and functionality of Pinterest, providing a visually appealing and user-friendly experience.
 
 ---
@@ -19,9 +25,3 @@ This is a **Pinterest clone website** that I created to showcase my frontend dev
 - **HTML5**: Markup structure of the website.  
 - **CSS3**: Styling for the grid layout, modals, and responsive design.  
 - **JavaScript**: Interactivity, such as modals and hover effects.  
-
----
-
-## How to View the Project  
-
-<h2>Link: https://vikas04das.github.io/Pinterest_Clone/ </h2>
